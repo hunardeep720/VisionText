@@ -19,10 +19,10 @@
 ## 🖥️ Screenshots  
 
 ### 📝 Extracted Text Output  
-![Extracted Text](result.png)  
+![Extracted Text](public/image/result.png)  
 
 ### 🏷️ Subject-Based Classification  
-![Subject Classification](subject.jpg)  
+![Subject Classification](public/image/SL-081322-52440-04.jpg)  
 
 ## 🛠️ Tech Stack  
 - **Azure Vision Studio** (OCR & Image Processing)  
